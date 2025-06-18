@@ -41,6 +41,8 @@ Este projeto é um exemplo de como o machine learning pode ser aplicado na área
 ## 📌 Observações
 
 > Este projeto tem finalidade educacional e não deve ser utilizado como ferramenta diagnóstica real.
+> 
+> Para visualizar o artigo no Medium do projeto [clique aqui](https://medium.com/@vinicius_wallace/modelo-de-previs%C3%A3o-de-doen%C3%A7as-card%C3%ADacas-heart-failure-e7796cff3341)
 
 ---
 
